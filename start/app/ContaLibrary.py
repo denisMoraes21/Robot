@@ -11,7 +11,7 @@ class ContaLibrary():
         self.saldo += valor
 
     def saca(self, valor):
-        self.sadlo -= valor
+        self.saldo -= valor
         self.saldo -= 2.0
 
 #Guardando a instância de uma instância
