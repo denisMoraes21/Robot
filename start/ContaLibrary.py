@@ -15,7 +15,7 @@ class ContaLibrary():
         self.saldo -= 2.0
 
 #Guardando a instância de uma instância
-conta = ContaLibrary()
-conta.abrir_conta()
-print(conta.obter_saldo())
-
+#conta = ContaLibrary()
+#conta.abrir_conta()
+#conta.deposita(100.00)
+#print(conta.obter_saldo())
